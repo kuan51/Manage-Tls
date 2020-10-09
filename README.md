@@ -23,5 +23,5 @@ Currently supports the following switches:
 -ssl3 # SSLv3
 -tls1 # TLSv1
 -tls11 # TLSv1.1
--tls12 # TLSv.12
+-tls12 # TLSv1.2
 ```
