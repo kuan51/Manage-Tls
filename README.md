@@ -17,3 +17,11 @@ import-module C:/path/to/Manage-Tls.psm1
 Manage-Tls -ssl3 $false
 Manage-Tls -tls12 $true
 ```
+Currently supports the following switches:
+```
+-ssl2 # SSLv2
+-ssl3 # SSLv3
+-tls1 # TLSv1
+-tls11 # TLSv1.1
+-tls12 # TLSv.12
+```
