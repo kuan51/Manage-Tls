@@ -4,6 +4,7 @@ This tool relies on True/False booleans to turn on/off the various TLS and SSL v
 Admin privileges are required as the script is making registry edits per the [Microsoft docs](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/operations/manage-ssl-protocols-in-ad-fs).
 
 True = Enable the protocol
+
 False = Disable the protocol
 
 ## Using the Module
